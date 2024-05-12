@@ -1,0 +1,36 @@
+| Key Binding       | Description                                                                                            |
+|-------------------|--------------------------------------------------------------------------------------------------------|
+| ^X                | Lock server                                                                                            |
+| ^C                | Create new window at home directory                                                                    |
+| ^D                | Detach from session                                                                                    |
+| *                 | List clients                                                                                            |
+| H                 | Switch to previous window                                                                              |
+| L                 | Switch to next window                                                                                  |
+| r                 | Rename window                                                                                          |
+| R                 | Reload tmux configuration file                                                                         |
+| ^A                | Switch to last window                                                                                  |
+| ^W                | List windows                                                                                           |
+| w                 | List windows                                                                                           |
+| z                 | Toggle pane zoom                                                                                       |
+| ^L                | Refresh client                                                                                         |
+| l                 | Refresh client                                                                                         |
+| \|                | Split window vertically                                                                                |
+| s                 | Split window vertically at current path                                                                |
+| v                 | Split window horizontally at current path                                                              |
+| "                 | Choose window                                                                                          |
+| h                 | Select pane to the left                                                                                |
+| j                 | Select pane below                                                                                      |
+| k                 | Select pane above                                                                                      |
+| l                 | Select pane to the right                                                                               |
+| ,                 | Resize pane to the left by 20 cells                                                                    |
+| .                 | Resize pane to the right by 20 cells                                                                   |
+| -                 | Resize pane downward by 7 cells                                                                        |
+| =                 | Resize pane upward by 7 cells                                                                          |
+| :                 | Enter command prompt                                                                                   |
+| P                 | Set pane border status                                                                                 |
+| c                 | Close current pane                                                                                     |
+| x                 | Swap pane with the pane below                                                                          |
+| S                 | Choose session                                                                                         |
+| v                 | Begin selection mode in copy-mode-vi                                                                  |
+| C-n               | Open nvim popup for ObsidianNew command                                                                |
+| C-q               | Open nvim popup for ObsidianSearch command with specified window size and position                     |
