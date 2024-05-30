@@ -39,3 +39,4 @@ zoxide
 zsh-autosuggestions
 zsh-syntax-highlighting
 sxhkd
+fastfetch
