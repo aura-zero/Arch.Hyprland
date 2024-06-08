@@ -6,14 +6,13 @@ To autostart sxhkd when you log in to your X11 session, you can add the command 
 bash
 
 nano ~/.xprofile
-
-    Add the following line to the file to start sxhkd:
+Add the following line to the file to start sxhkd:
 
 bash
 
 sxhkd &
 
-    Save the file and exit the text editor.
+Save the file and exit the text editor.
 
 2. Make ~/.xprofile executable (if necessary):
 
