@@ -1,6 +1,0 @@
-2024/07/23-19:46:53.423 11ba Reusing MANIFEST /home/aura/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/23-19:46:53.423 11ba Recovering log #22
-2024/07/23-19:46:53.445 11ba Reusing old log /home/aura/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000022.log 
-2024/07/23-20:03:54.058 113b Level-0 table #27: started
-2024/07/23-20:03:54.136 113b Level-0 table #27: 927317 bytes OK
-2024/07/23-20:03:54.147 113b Delete type=0 #22
