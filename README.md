@@ -17,7 +17,7 @@ To install, execute the following commands:
 
 ```shell
 pacman -Sy git
-git clone --depth 1 https://github.com/prasanthrangan/hyprdots ~/HyDE
+git clone --depth 1 https://github.com/aura-zero/dotHyprland.git ~/HyDE
 cd ~/HyDE/Scripts
 ./install.sh
 ```
@@ -154,3 +154,6 @@ For more information, visit [prasanthrangan/hyde-themes](https://github.com/pras
   <br>
   <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
+
+-----
+credit: [prasanthrangan hyprdots](https://github.com/prasanthrangan/hyprdots/tree/main)
